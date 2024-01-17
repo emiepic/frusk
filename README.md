@@ -16,3 +16,8 @@
 ---
 
 A showcase of an UNDERTALE recreation engine built in Godot.
+
+## Credits:
+
+"Nightmare Knight" - Toby Fox  
+"Battle against the TRUE Starwalker" - Xhitest
